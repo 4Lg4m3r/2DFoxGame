@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cherries
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FarBackground
+    uniqueID: 1773326905
+    locked: 0
+  - name: Background
+    uniqueID: 2597066621
+    locked: 0
+  - name: BackTiles
+    uniqueID: 181260327
+    locked: 0
+  - name: Tiles
+    uniqueID: 222573543
+    locked: 0
+  - name: Player
+    uniqueID: 1019521507
+    locked: 0
